@@ -15,7 +15,7 @@ A web development project that mimics the Netflix homepage. This project is buil
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/NetflixProject.git
+git clone https://github.com/AkRawat3278/NetflixProject.git
 cd NetflixProject
 
 open index.html
